@@ -1,6 +1,6 @@
-# Segunda Maratona Zabbix
+# Curso Zabbix 5.0
 
-Este repositório contem os arquivos da segunda maratona Zabbix.
+Este repositório contem os arquivos do curso Zabbix JLCP.
 
 Para fazer o deploy do ambiente siga os seguintes procedimentos
 
