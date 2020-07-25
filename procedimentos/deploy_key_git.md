@@ -6,13 +6,13 @@
 
 
 
-## 1º Passo - Gerar chave RSA
+### 1º Passo - Gerar chave RSA
 
 ```bash
 ssh-keygen -t rsa -b 4096
 ```
 
-### 2º Passo - Inserir a chave RSA no repositorio
+#### 2º Passo - Inserir a chave RSA no repositorio
 
 ```bash
 No repositorio GIT, acesse Settings > Deploy Keys
