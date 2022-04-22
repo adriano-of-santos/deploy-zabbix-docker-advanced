@@ -1,6 +1,6 @@
-# Curso Zabbix 5.0
+# Zabbix 5
 
-Este repositório contem os arquivos do curso Zabbix JLCP.
+Este repositório contem os arquivos do curso Zabbix.
 
 Para fazer o deploy do ambiente siga os seguintes procedimentos
 
